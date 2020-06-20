@@ -13,7 +13,7 @@ public class Entryption {
 		System.out.println("Number of Command Line Argument = "+args.length);
         String key = "abcdefghijklmop";
         String clean = "this is madhukar";
-       
+        
         int keySize = 16;
 		int ivSize=16;
 		String abc="SHA-256";
